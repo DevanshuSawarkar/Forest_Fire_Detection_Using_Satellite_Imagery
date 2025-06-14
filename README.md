@@ -4,6 +4,9 @@
 ## 📌 Overview
 This project aims to detect forest fires from satellite imagery using deep learning techniques. Leveraging convolutional neural networks (CNNs), the model classifies images into categories such as fire or no fire. The goal is to provide an automated and scalable solution for early fire detection to help mitigate environmental and economic losses.
 
+## 🚀 Live App
+👉 [Click here to try the app](https://forestfiredetectionusingsatelliteimagery-devanshusawarkar.streamlit.app/)
+
 ## 🚀 Features
 - Classification of satellite images into fire/no-fire categories.
 - Preprocessing pipeline for image augmentation and normalization.
